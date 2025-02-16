@@ -50,7 +50,7 @@ npm start
 🖥️ Live Demo
 
 You can view a live demo of the project on CodeSandbox:
-Live Preview on CodeSandbox (Replace with actual CodeSandbox link)
+Live Preview on CodeSandbox (https://codesandbox.io/p/github/julysway/Book-Finder/main?import=true)
 
 📌 Usage
 
